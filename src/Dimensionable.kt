@@ -1,0 +1,6 @@
+interface Dimensionable {
+
+    fun printDimensions(){
+
+    }
+}
